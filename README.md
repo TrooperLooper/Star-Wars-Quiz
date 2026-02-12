@@ -1,6 +1,10 @@
 # Star Wars Quote Quiz
 
+![Star Wars Quiz Screenshot](frontend/public/images/sw-game.png)
+
 A fun React-based quiz app where you test your knowledge of iconic Star Wars quotes. Guess which character said each quote and challenge yourself!
+
+In this project, I mastered building a modern, responsive single-page application using React, React Router, and Tailwind CSS. I implemented user authentication (signup and login), dynamic data fetching from an external API, and interactive state management for a seamless quiz experience. This assignment shows my work to structure scalable frontend projects, create reusable components, and deliver good user interfaces with Vite and Tailwind.
 
 ## Features
 
