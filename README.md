@@ -6,7 +6,8 @@ In this frontend schoolproject, I built a modern, responsive single-page applica
 
 <img src="/public/images/sw-game.png" alt="Star Wars Quiz Screenshot" style="height:250px;" />
 
-Play the game here: https://star-wars-quiz-jkor.vercel.app/game
+Play the game here!: https://star-wars-quiz-jkor.vercel.app/game
+<br>
 (Please be mindfull of how many quotes you generate, since the API-calls are limited).
 
 ## Features
