@@ -1,10 +1,13 @@
 # Star Wars Quote Quiz
 
-![Star Wars Quiz Screenshot](frontend/public/images/sw-game.png)
+![Star Wars Quiz Screenshot](public/images/sw-game.png)
 
 A fun React-based quiz app where you test your knowledge of iconic Star Wars quotes. Guess which character said each quote and challenge yourself!
 
 In this frontend schoolproject, I built a modern, responsive single-page application using React, React Router, and Tailwind CSS. I implemented user authentication (signup and login), dynamic data fetching from an external API, and robust state management for quiz logic, including button states and answer validation. The application leverages React state to manage user interactions, providing immediate feedback for correct and incorrect answers through UI state transitions. This assignment demonstrates my ability to structure scalable frontend projects, create reusable components, and deliver clean user interfaces with Vite and Tailwind.
+
+Play the game here: https://star-wars-quiz-jkor.vercel.app/game
+(Please keep as API-calls to a handfull since calls are limited).
 
 ## Features
 
