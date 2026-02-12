@@ -4,10 +4,10 @@ A fun React-based quiz app where you test your knowledge of iconic Star Wars quo
 
 In this frontend schoolproject, I built a modern, responsive single-page application using React, React Router, and Tailwind CSS. I implemented user authentication (signup and login), dynamic data fetching from an external API, and robust state management for quiz logic, including button states and answer validation. The application leverages React state to manage user interactions, providing immediate feedback for correct and incorrect answers through UI state transitions. This assignment demonstrates my ability to structure scalable frontend projects, create reusable components, and deliver clean user interfaces with Vite and Tailwind.
 
-<img src="/public/images/sw-game.png" alt="Star Wars Quiz Screenshot" style="height:300px;" />
+<img src="/public/images/sw-game.png" alt="Star Wars Quiz Screenshot" style="height:250px;" />
 
 Play the game here: https://star-wars-quiz-jkor.vercel.app/game
-(Please keep as API-calls to a handfull since calls are limited).
+(Please be mindfull of how many quotes you generate, since the API-calls are limited).
 
 ## Features
 
