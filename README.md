@@ -4,7 +4,7 @@
 
 A fun React-based quiz app where you test your knowledge of iconic Star Wars quotes. Guess which character said each quote and challenge yourself!
 
-In this project, I mastered building a modern, responsive single-page application using React, React Router, and Tailwind CSS. I implemented user authentication (signup and login), dynamic data fetching from an external API, and interactive state management for a seamless quiz experience. This assignment shows my work to structure scalable frontend projects, create reusable components, and deliver good user interfaces with Vite and Tailwind.
+In this frontend schoolproject, I built a modern, responsive single-page application using React, React Router, and Tailwind CSS. I implemented user authentication (signup and login), dynamic data fetching from an external API, and robust state management for quiz logic, including button states and answer validation. The application leverages React state to manage user interactions, providing immediate feedback for correct and incorrect answers through UI state transitions. This assignment demonstrates my ability to structure scalable frontend projects, create reusable components, and deliver clean user interfaces with Vite and Tailwind.
 
 ## Features
 
