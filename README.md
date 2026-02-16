@@ -15,7 +15,7 @@ Play the game here!: https://star-wars-quiz.vercel.app/game
 - User signup and login
 - Random Star Wars quotes from api
 - Guess the character for each quote
-- Responsive design
+- Responsive design 
 
 ## Getting Started
 
