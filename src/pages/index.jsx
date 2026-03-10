@@ -4,7 +4,7 @@ const Index = () => {
   const navigate = useNavigate();
 
   return (
-    <div className="flex flex-col text-center items-center justify-center min-h-screen bg-blue-50">
+    <div className="flex flex-col text-center items-center justify-center min-h-screen bg-blue-50 relative">
       <div>
         <img
           src="/images/ds.png"
@@ -35,6 +35,18 @@ const Index = () => {
           Login
         </button>
       </div>
+      {/* Floating Skip Login Button */}
+      <button
+        onClick={() => navigate("/api")}
+        className="fixed top-1/2 right-8 mr-12 z-50 -translate-y-1/2 p-0 bg-transparent border-none focus:outline-none"
+        aria-label="Skip Login"
+      >
+        <img
+          src="/images/skiplogin.png"
+          alt="Skip the login? Right here"
+          className="w-32 h-auto block drop-shadow-xl"
+        />
+      </button>
     </div>
   );
 };
