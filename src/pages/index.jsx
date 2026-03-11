@@ -35,16 +35,16 @@ const Index = () => {
           Login
         </button>
       </div>
-      {/* Floating Skip Login Button */}
+      {/* Skip Login Button */}
       <button
         onClick={() => navigate("/api")}
-        className="fixed top-1/2 right-8 mr-12 z-50 -translate-y-1/2 p-0 bg-transparent border-none focus:outline-none"
+        className="p-0 bg-transparent border-none focus:outline-none mt-4 md:fixed md:top-1/2 md:right-8 md:mr-12 md:z-50 md:-translate-y-1/2 md:mt-0"
         aria-label="Skip Login"
       >
         <img
           src="/images/skiplogin.png"
           alt="Skip the login? Right here"
-          className="w-32 h-auto block drop-shadow-xl"
+          className="w-14 md:w-32 min-w-24 h-auto block"
         />
       </button>
     </div>
